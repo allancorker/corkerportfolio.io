@@ -15,7 +15,7 @@ body::before {
   position: fixed;
   background: #0e0d0d url("static/images/bg-road.jpg") top right no-repeat;
   background-size: cover;
-  left: 0;
+  left: 1;
   right: 0;
   top: 0;
   height: 100vh;
