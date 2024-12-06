@@ -12,7 +12,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #0e0d0d url("static/images/bg-road.jpg") top right no-repeat;
+  background: #0e0d0d url("/static/images/bg-road.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
